@@ -11,28 +11,28 @@
       "hotelName": "파르나스 호텔 제주",
       "base": 2,
       "max": 2,
-      "reservation": true,
+      "reservation": false,
       "id": 2
     },
     {
       "hotelName": "고창 웰파크시티 힐링카운티",
       "base": 2,
       "max": 2,
-      "reservation": true,
+      "reservation": false,
       "id": 3
     },
     {
       "hotelName": "사우 베이 리조트",
       "base": 2,
       "max": 2,
-      "reservation": true,
+      "reservation": false,
       "id": 4
     },
     {
       "hotelName": "알다프와 빌라스",
       "base": 2,
       "max": 4,
-      "reservation": true,
+      "reservation": false,
       "id": 5
     },
     {
